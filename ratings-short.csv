@@ -1,10 +1,54 @@
 Const,Your Rating,Date Rated,Title,URL,Title Type,IMDb Rating,Runtime (mins),Year,Genres,Num Votes,Release Date,Directors
-tt1019452,1,2018-01-19,A Serious Man,https://www.imdb.com/title/tt1019452/,movie,7.0,106,2009,"Comedy, Drama",114206,2009-09-12,"Ethan Coen, Joel Coen"
-tt0103873,5,2013-07-18,Braindead,https://www.imdb.com/title/tt0103873/,movie,7.5,104,1992,"Comedy, Horror",83555,1992-07-30,Peter Jackson
-tt0106179,10,2012-03-11,The X Files,https://www.imdb.com/title/tt0106179/,tvSeries,8.7,45,1993,"Drama, Mystery, Sci-Fi, Thriller",173187,1993-09-10,
-tt1082599,6,2010-10-26,Stag Night,https://www.imdb.com/title/tt1082599/,movie,4.9,84,2008,"Horror, Thriller",2770,2008-06-26,Peter A. Dowling
-tt1119644,9,2013-06-05,Fringe,https://www.imdb.com/title/tt1119644/,tvSeries,8.4,46,2008,"Drama, Mystery, Sci-Fi, Thriller",197374,2008-09-09,
-tt0113409,4,2018-02-21,In the Mouth of Madness,https://www.imdb.com/title/tt0113409/,movie,7.2,95,1994,"Fantasy, Horror, Mystery, Thriller",49297,1994-12-10,John Carpenter
-tt1179933,8,2016-05-16,10 Cloverfield Lane,https://www.imdb.com/title/tt1179933/,movie,7.2,103,2016,"Drama, Horror, Mystery, Sci-Fi, Thriller",234183,2016-03-08,Dan Trachtenberg
-tt1182345,7,2018-01-23,Moon,https://www.imdb.com/title/tt1182345/,movie,7.9,97,2009,"Drama, Mystery, Sci-Fi",294523,2009-01-23,Duncan Jones
-tt1183374,4,2016-12-31,Pet,https://www.imdb.com/title/tt1183374/,movie,5.7,94,2016,"Horror, Thriller",11896,2016-03-11,Carles Torrens
+tt0103873,5,2013-07-18,Braindead,https://www.imdb.com/title/tt0103873/,movie,7.5,104,1992,"Comedy, Horror",83575,1992-07-30,Peter Jackson
+tt0113409,4,2018-02-21,In the Mouth of Madness,https://www.imdb.com/title/tt0113409/,movie,7.2,95,1994,"Fantasy, Horror, Mystery, Thriller",49345,1994-12-10,John Carpenter
+tt1179933,8,2016-05-16,10 Cloverfield Lane,https://www.imdb.com/title/tt1179933/,movie,7.2,103,2016,"Drama, Horror, Mystery, Sci-Fi, Thriller",234597,2016-03-08,Dan Trachtenberg
+tt1182345,7,2018-01-23,Moon,https://www.imdb.com/title/tt1182345/,movie,7.9,97,2009,"Drama, Mystery, Sci-Fi",294722,2009-01-23,Duncan Jones
+tt1259521,8,2012-10-07,The Cabin in the Woods,https://www.imdb.com/title/tt1259521/,movie,7.0,95,2012,"Comedy, Fantasy, Horror",315668,2012-03-09,Drew Goddard
+tt1288558,8,2013-07-18,Evil Dead,https://www.imdb.com/title/tt1288558/,movie,6.5,91,2013,"Fantasy, Horror, Thriller",139599,2013-03-08,Fede Alvarez
+tt0134847,8,2016-10-15,Pitch Black,https://www.imdb.com/title/tt0134847/,movie,7.1,109,2000,"Horror, Sci-Fi",207197,2000-02-18,David Twohy
+tt1408101,8,2013-12-30,Star Trek: Into Darkness,https://www.imdb.com/title/tt1408101/,movie,7.8,132,2013,"Action, Adventure, Sci-Fi",432351,2013-05-02,J.J. Abrams
+tt1446714,8,2012-12-25,Prometheus,https://www.imdb.com/title/tt1446714/,movie,7.0,124,2012,"Adventure, Mystery, Sci-Fi",516661,2012-04-11,Ridley Scott
+tt1534085,7,2018-04-20,Beyond the Black Rainbow,https://www.imdb.com/title/tt1534085/,movie,6.0,110,2010,"Horror, Sci-Fi, Thriller",8182,2010-12-03,Panos Cosmatos
+tt1536537,8,2017-08-20,What Happened to Monday,https://www.imdb.com/title/tt1536537/,movie,6.9,123,2017,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi, Thriller",60618,2017-08-06,Tommy Wirkola
+tt1540011,4,2016-12-29,Blair Witch,https://www.imdb.com/title/tt1540011/,movie,5.0,89,2016,"Horror, Thriller",32719,2016-09-11,Adam Wingard
+tt1542344,6,2018-04-24,127 Hours,https://www.imdb.com/title/tt1542344/,movie,7.6,94,2010,"Adventure, Biography, Drama, Thriller",308384,2010-09-04,Danny Boyle
+tt1637688,9,2015-08-07,In Time,https://www.imdb.com/title/tt1637688/,movie,6.7,109,2011,"Action, Crime, Drama, Mystery, Romance, Sci-Fi, Thriller",332526,2011-10-20,Andrew Niccol
+tt1703199,10,2011-09-08,Grave Encounters,https://www.imdb.com/title/tt1703199/,movie,6.1,92,2011,Horror,45492,2011-04-22,"The Vicious Brothers, Colin Minihan, Stuart Ortiz"
+tt1735485,6,2013-01-21,The Tunnel,https://www.imdb.com/title/tt1735485/,movie,5.9,90,2011,"Horror, Mystery, Thriller",17150,2011-05-19,Carlo Ledesma
+tt1778304,5,2011-10-24,Paranormal Activity 3,https://www.imdb.com/title/tt1778304/,movie,5.8,83,2011,Horror,82675,2011-10-14,"Henry Joost, Ariel Schulman"
+tt1905040,8,2018-03-17,The Dyatlov Pass Incident,https://www.imdb.com/title/tt1905040/,movie,5.7,100,2013,"Horror, Mystery, Sci-Fi, Thriller",18867,2013-02-28,Renny Harlin
+tt1959332,8,2013-09-30,American Mary,https://www.imdb.com/title/tt1959332/,movie,6.3,103,2012,"Drama, Horror",19270,2012-08-27,"Sylvia Soska, Jen Soska"
+tt1991245,5,2014-02-17,Chernobyl Diaries,https://www.imdb.com/title/tt1991245/,movie,5.0,86,2012,"Horror, Mystery, Thriller",56972,2012-05-24,Bradley Parker
+tt2091478,4,2015-09-19,Air,https://www.imdb.com/title/tt2091478/,movie,5.1,95,2015,"Drama, Sci-Fi, Thriller",10739,2015-08-14,Christian Cantamessa
+tt2251281,7,2017-01-02,Dark Was the Night,https://www.imdb.com/title/tt2251281/,movie,5.6,90,2014,"Drama, Horror, Thriller",6821,2014-10-16,Jack Heller
+tt2316204,8,2017-07-14,Alien: Covenant,https://www.imdb.com/title/tt2316204/,movie,6.5,122,2017,"Horror, Sci-Fi, Thriller",196178,2017-05-04,Ridley Scott
+tt2317225,8,2015-11-23,The Machine,https://www.imdb.com/title/tt2317225/,movie,6.1,91,2013,"Action, Drama, Sci-Fi, Thriller",27556,2013-04-20,Caradog W. James
+tt2543164,7,2017-01-16,Arrival,https://www.imdb.com/title/tt2543164/,movie,7.9,116,2016,"Drama, Mystery, Sci-Fi, Thriller",445110,2016-09-01,Denis Villeneuve
+tt0259446,10,2011-09-18,My Big Fat Greek Wedding,https://www.imdb.com/title/tt0259446/,movie,6.6,95,2002,"Comedy, Drama, Romance",109943,2002-02-22,Joel Zwick
+tt2669336,8,2017-10-02,Time Lapse,https://www.imdb.com/title/tt2669336/,movie,6.5,104,2014,"Sci-Fi, Thriller",34801,2014-04-19,Bradley King
+tt2798920,8,2018-03-12,Annihilation,https://www.imdb.com/title/tt2798920/,movie,7.0,115,2018,"Adventure, Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",115265,2018-02-13,Alex Garland
+tt2870612,5,2018-02-21,"As Above, So Below",https://www.imdb.com/title/tt2870612/,movie,6.2,93,2014,"Horror, Mystery, Thriller",60014,2014-08-19,John Erick Dowdle
+tt2872718,4,2018-03-16,Nightcrawler,https://www.imdb.com/title/tt2872718/,movie,7.9,118,2014,"Crime, Drama, Thriller",367518,2014-09-05,Dan Gilroy
+tt0303816,8,2013-09-23,Cabin Fever,https://www.imdb.com/title/tt0303816/,movie,5.6,93,2002,Horror,67340,2002-09-14,Eli Roth
+tt3086442,6,2016-04-20,Ich seh ich seh,https://www.imdb.com/title/tt3086442/,movie,6.7,99,2014,"Horror, Mystery, Thriller",31691,2014-08-30,"Severin Fiala, Veronika Franz"
+tt3235888,6,2015-09-12,It Follows,https://www.imdb.com/title/tt3235888/,movie,6.9,100,2014,"Horror, Mystery",160315,2014-05-17,David Robert Mitchell
+tt3286052,5,2018-02-09,February,https://www.imdb.com/title/tt3286052/,movie,5.8,93,2015,"Horror, Thriller",9532,2015-09-12,Oz Perkins
+tt3348730,5,2018-01-12,Jigsaw,https://www.imdb.com/title/tt3348730/,movie,5.8,92,2017,"Crime, Horror, Mystery, Thriller",41821,2017-10-25,"Michael Spierig, Peter Spierig"
+tt0365748,9,2017-07-14,Shaun of the Dead,https://www.imdb.com/title/tt0365748/,movie,8.0,99,2004,"Comedy, Horror",442347,2004-03-29,Edgar Wright
+tt3774790,5,2015-11-22,400 Days,https://www.imdb.com/title/tt3774790/,movie,4.5,91,2015,"Mystery, Sci-Fi, Thriller",8805,2015-10-29,Matt Osterman
+tt3839880,8,2018-01-05,Infinity Chamber,https://www.imdb.com/title/tt3839880/,movie,6.2,103,2016,"Sci-Fi, Thriller",4306,2016-05-31,Travis Milloy
+tt0397101,10,2013-09-23,The Skeleton Key,https://www.imdb.com/title/tt0397101/,movie,6.5,104,2005,"Drama, Horror, Mystery, Thriller",95697,2005-07-29,Iain Softley
+tt4034354,8,2016-10-01,Swiss Army Man,https://www.imdb.com/title/tt4034354/,movie,7.0,97,2016,"Adventure, Comedy, Drama, Fantasy, Romance",79423,2016-01-22,"Dan Kwan, Daniel Scheinert"
+tt4255304,8,2017-04-23,The Void,https://www.imdb.com/title/tt4255304/,movie,5.8,90,2016,"Horror, Mystery, Sci-Fi",20089,2016-09-22,"Steven Kostanski, Jeremy Gillespie"
+tt4361050,4,2017-01-16,Ouija: Origin of Evil,https://www.imdb.com/title/tt4361050/,movie,6.1,99,2016,"Horror, Thriller",40324,2016-10-20,Mike Flanagan
+tt0439815,10,2012-10-28,Slither,https://www.imdb.com/title/tt0439815/,movie,6.5,95,2006,"Comedy, Horror, Sci-Fi",66966,2006-03-31,James Gunn
+tt4520364,5,2016-12-09,Morgan,https://www.imdb.com/title/tt4520364/,movie,5.8,92,2016,"Action, Horror, Sci-Fi, Thriller",31245,2016-09-01,Luke Scott
+tt4693358,5,2017-11-18,OtherLife,https://www.imdb.com/title/tt4693358/,movie,6.3,96,2017,"Crime, Mystery, Sci-Fi, Thriller",7484,2017-06-16,Ben C. Lucas
+tt4935372,8,2017-03-26,The Devil's Candy,https://www.imdb.com/title/tt4935372/,movie,6.4,79,2015,"Drama, Horror, Thriller",10916,2015-09-13,Sean Byrne
+tt5052448,7,2017-05-22,Get Out,https://www.imdb.com/title/tt5052448/,movie,7.7,104,2017,"Horror, Mystery, Thriller",297220,2017-01-23,Jordan Peele
+tt5215952,5,2018-04-17,Gok-seong,https://www.imdb.com/title/tt5215952/,movie,7.4,156,2016,"Horror, Mystery, Thriller",27042,2016-05-12,Hong-jin Na
+tt5638642,6,2018-02-10,The Ritual,https://www.imdb.com/title/tt5638642/,movie,6.3,94,2017,Horror,30631,2017-09-08,David Bruckner
+tt0079944,5,2016-05-16,Stalker,https://www.imdb.com/title/tt0079944/,movie,8.1,162,1979,"Drama, Sci-Fi",87852,1979-05-31,Andrei Tarkovsky
+tt0088930,10,2013-02-09,Clue,https://www.imdb.com/title/tt0088930/,movie,7.3,94,1985,"Comedy, Crime, Mystery, Thriller",64781,1985-12-13,Jonathan Lynn
+tt0938330,8,2013-07-17,Silent Hill: Revelation,https://www.imdb.com/title/tt0938330/,movie,5.0,95,2012,"Adventure, Drama, Horror, Mystery, Thriller",54539,2012-10-25,M.J. Bassett
+tt0095925,8,2018-04-05,Pumpkinhead,https://www.imdb.com/title/tt0095925/,movie,6.2,86,1988,"Fantasy, Horror",16306,1988-06-30,Stan Winston
